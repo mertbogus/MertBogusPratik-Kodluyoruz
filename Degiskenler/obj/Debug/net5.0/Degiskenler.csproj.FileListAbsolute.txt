@@ -1,0 +1,16 @@
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\bin\Debug\net5.0\Degiskenler.exe
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\bin\Debug\net5.0\Degiskenler.deps.json
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\bin\Debug\net5.0\Degiskenler.runtimeconfig.json
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\bin\Debug\net5.0\Degiskenler.runtimeconfig.dev.json
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\bin\Debug\net5.0\Degiskenler.dll
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\bin\Debug\net5.0\ref\Degiskenler.dll
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\bin\Debug\net5.0\Degiskenler.pdb
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\obj\Debug\net5.0\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\obj\Debug\net5.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\obj\Debug\net5.0\Degiskenler.AssemblyInfoInputs.cache
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\obj\Debug\net5.0\Degiskenler.AssemblyInfo.cs
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\obj\Debug\net5.0\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\obj\Debug\net5.0\Degiskenler.dll
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\obj\Debug\net5.0\ref\Degiskenler.dll
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\obj\Debug\net5.0\Degiskenler.pdb
+C:\Users\bjk_m\Desktop\MertBogusPratik\Degiskenler\obj\Debug\net5.0\Degiskenler.genruntimeconfig.cache
