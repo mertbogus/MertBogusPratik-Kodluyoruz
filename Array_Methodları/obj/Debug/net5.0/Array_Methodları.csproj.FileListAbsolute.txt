@@ -1,0 +1,16 @@
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\bin\Debug\net5.0\Array_Methodları.exe
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\bin\Debug\net5.0\Array_Methodları.deps.json
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\bin\Debug\net5.0\Array_Methodları.runtimeconfig.json
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\bin\Debug\net5.0\Array_Methodları.runtimeconfig.dev.json
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\bin\Debug\net5.0\Array_Methodları.dll
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\bin\Debug\net5.0\ref\Array_Methodları.dll
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\bin\Debug\net5.0\Array_Methodları.pdb
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\obj\Debug\net5.0\Array_Methodları.csproj.AssemblyReference.cache
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\obj\Debug\net5.0\Array_Methodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\obj\Debug\net5.0\Array_Methodları.AssemblyInfoInputs.cache
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\obj\Debug\net5.0\Array_Methodları.AssemblyInfo.cs
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\obj\Debug\net5.0\Array_Methodları.csproj.CoreCompileInputs.cache
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\obj\Debug\net5.0\Array_Methodları.dll
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\obj\Debug\net5.0\ref\Array_Methodları.dll
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\obj\Debug\net5.0\Array_Methodları.pdb
+C:\Users\bjk_m\Desktop\MertBogusPratik\Array_Methodları\obj\Debug\net5.0\Array_Methodları.genruntimeconfig.cache
